@@ -477,6 +477,11 @@
         margin-right: 20px;
         cursor: pointer;
       }
+
+
+       .header-container-top {
+       display: none;
+      }
   
       .suscripcion {
         display: flex;
